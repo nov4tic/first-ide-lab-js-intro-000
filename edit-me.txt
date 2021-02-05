@@ -1,2 +1,1 @@
-time to turn up!
-console.log('If you a bad bitch put your hands in the air');
+
